@@ -3,7 +3,7 @@ public class NTTData {
     void impriRuc(){
         System.out.println(sRUC);
     } 
-    ("cambio desde interfaz web"); // Editado desde la GITHUB web
+      System.out.println("cambio desde interfaz web"); // Editado desde la GITHUB web
     public String getsRuc(){
         return this.sRUC;
     }
